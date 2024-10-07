@@ -5,6 +5,7 @@
 - 🌱 Atualmente estou aprendendo Desenvolvimento Mobile
 - 📚 Estou cursando Análise e desenvolvimento de sistemas
 - ⚡ Curiosidade: Gosto de fazer dashboards, designers e análises.
+- Organizando arquivos para postagens de projetos!!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ray-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
