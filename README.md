@@ -31,15 +31,3 @@
 </div>
 
 
-### 📊 Estatísticas
-
-
-<p>
-  <img 
-    align="left" 
-    alt="Linguagens Mais Usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanneernandez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
