@@ -1,10 +1,9 @@
 ## Olá! Sou Rayanne Ernandez 👋
 
 
-- 🔭 Hoje trabalho com Suporte de TI
-- 🌱 Atualmente estou aprendendo Desenvolvimento Mobile
+- 🌱 Atualmente estou aprendendo Python e Java
 - 📚 Estou cursando Análise e desenvolvimento de sistemas
-- ⚡ Curiosidade: Gosto de fazer dashboards, designers e análises.
+- ⚡ Curiosidades: Gosto de fazer dashboards, designers e análises.
 - Organizando arquivos para postagens de projetos!!
 
 <div style="display: inline_block"><br>
@@ -20,6 +19,27 @@
 </div>
 
 ##
+
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 <div> 
   <a href="https://instagram.com/rayanne_ernandez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/rayanneernandez" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
