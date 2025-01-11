@@ -1,7 +1,7 @@
 ## Olá! Sou Rayanne Ernandez 👋
 
 
-- 🌱 Atualmente estou aprendendo Python e Java
+- 🌱 Atualmente estou focando no aprendizado de Python e Java
 - 📚 Estou cursando Análise e desenvolvimento de sistemas
 - ⚡ Curiosidades: Gosto de fazer dashboards, designers e análises.
 - Organizando arquivos para postagens de projetos!!
