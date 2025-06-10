@@ -61,6 +61,6 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas**, onde estou mergulh
 ---
 
 <p align="center">
-  🚧 Portfólio em construção... Novos projetos em breve! 🚀
+  🚧 Portfólio(https://rayanneernandez.github.io/portifolio/)... Novos projetos em breve! 🚀
 </p>
 
