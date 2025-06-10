@@ -1,7 +1,7 @@
 <h1 align="center">✨ Rayanne Ernandez ✨</h1>
 
 <p align="center">
-  Desenvolvedora em formação | Apaixonada por tecnologia, design e dados 🌐📊🎨
+  Desenvolvedora em constante formação | Apaixonada por tecnologia, design e dados 🌐📊🎨
 </p>
 
 ---
