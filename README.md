@@ -30,14 +30,6 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas**, onde estou mergulh
   <img align="center" alt="Ray-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
 </div>
 
----
-
-## 📊 Github Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayanneernandez&show_icons=true&theme=radical&hide_title=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanneernandez&layout=compact&theme=radical"/>
-</p>
 
 ---
 
